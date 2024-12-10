@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/MoatazEmad">
+  <a href="https://github.com/Mezoemad">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Moataz+Emad;Welcome+to+my+GitHub+profile!" alt="Typing SVG"/>
   </a>
 </p>
